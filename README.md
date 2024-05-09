@@ -1,0 +1,29 @@
+# PRUEBA TEMA 4 - ENTORNOS DE DESARROLLO
+**DOCUMENTACION, OPTIMIZACION Y CONTROL DE VERSIONES**
+***RAFAEL ESPEJO ROSAL***
+
+##EJERCICIO 1
+![EJERCICIO1](Screenshots/1.png)
+
+
+##EJERCICIO 2
+![EJERCICIO2a](Screenshots/2a.png)
+
+![EJERCICIO2b](Screenshots/2b.png)
+
+![EJERCICIO2c](Screenshots/2c.png)
+
+
+##EJERCICIO 3
+![EJERCICIO3](Screenshots/3.png)
+
+
+##EJERCICIO 4
+![EJERCICIO4](Screenshots/4.png)
+
+##EJERCICIO 5
+![EJERCICIO5](Screenshots/5.png)
+
+
+##EJERCICIO 6
+![EJERCICIO6](Screenshots/6.png)
